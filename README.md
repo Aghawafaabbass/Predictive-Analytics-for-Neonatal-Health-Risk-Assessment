@@ -9,8 +9,6 @@ A Machine Learning Approach to Early Detection of Critical Health Conditions in 
   </a>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Framework-PyTorch%20%7C%20Scikit--learn-orange?style=for-the-badge" alt="Frameworks">
-  <img src="https://img.shields.io/badge/Healthcare%20AI-Open%20Source-success?style=for-the-badge" alt="Open Source">
 </p>
 
 <p align="center">
@@ -128,6 +126,6 @@ Questions, collaborations, or improvements?
 Feel free to open an issue or email me directly.
 Built with ❤️ for neonatal health and reproducible science.
 
-  Footer Banner
+ 
 
   Last updated: January 2026
