@@ -1,0 +1,6 @@
+Model,ROC AUC,Accuracy,Recall (At Risk = 0),Precision (At Risk),F1 (At Risk),Notes
+Random Forest (tabular + SMOTE),1.0,0.9983,1.0,0.9877,0.9938,Perfect — but leakage suspected
+XGBoost (tabular + SMOTE),1.0,0.9983,1.0,0.9877,0.9938,Perfect — but leakage suspected
+Logistic Regression (tabular),0.9569,0.8967,0.8625,0.575,0.69,Strong baseline
+XGBoost (no jaundice leakage),0.0,0.0,0.0,0.0,0.0,Realistic after removing jaundice
+LSTM (7-day sequences),0.0,0.0,0.0,0.0,0.0,"Time-series, no leakage features used"
