@@ -1,6 +1,7 @@
 # Predictive Analytics for Neonatal Health Risk Assessment A Machine Learning Approach to Early Detection of Critical Health Conditions in Newborns
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18383330.svg)](https://doi.org/10.5281/zenodo.18383330)
+[![DOI](https://zenodo.org/badge/1143258642.svg)](https://doi.org/10.5281/zenodo.18398872)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
