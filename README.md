@@ -1,4 +1,4 @@
-# NeoRisk: Predictive Analytics for Neonatal Health Risk Assessment
+# Predictive Analytics for Neonatal Health Risk Assessment A Machine Learning Approach to Early Detection of Critical Health Conditions in Newborns
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18383330.svg)](https://doi.org/10.5281/zenodo.18383330)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -384,7 +384,7 @@ This software is provided for research and educational purposes only. It is NOT 
 - Email: awabbas@arden.ac.uk
 - Email: wafa.abbas.lhr@rootsivy.edu.pk
 
-**Affiliations:**
+**Lecturer and Teaching in:**
 - University of Portsmouth, UK
 - Arden University, UK
 - Pearson, London, UK
